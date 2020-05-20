@@ -3831,3 +3831,5 @@ Stormarn	Feldhorst	0006 - WKA Typ Jacobs MD 70	1500 kW Nennleist. Rotor.	65	70	3
 Stormarn	Feldhorst	0001 - WKA Typ Jacobs MD 70	1500 kW Nennleist. Rotor.	65	70	32593039	5969773	in Betrieb
 Rottweil	Epfendorf	links	3000 kW Nennleist. Rotor.	134	131	32472506	5345265	in Betrieb
 Rottweil	Epfendorf	rechts	3000 kW Nennleist. Rotor.	134	131	32472498	5345260	in Betrieb
+Wald	Vorne_am_Wald	Windrad1	1500 kW Nennleist. Rotor.	65	70	32465268	5340836	in Betrieb
+Wald	Nicht_am_Wald	Windrad2	1500 kW Nennleist. Rotor.	65	70	32464870	5341041	in Betrieb
